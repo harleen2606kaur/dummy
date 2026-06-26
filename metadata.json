@@ -1,0 +1,6 @@
+{
+  "name": "ShineBeauty",
+  "description": "Reveal Your Natural Glow - Premium skincare products designed to nourish, protect, and enhance your natural beauty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
